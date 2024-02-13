@@ -20,7 +20,7 @@ This system is your personalized movie oracle, using the power of algorithms to 
     <ol>
         <li>Clone the repository to your local machine.</li>
         <li>Ensure you have Python installed on your system.</li>
-        <li>Install the required dependencies listed in the <code>requirements.txt</code> file.</li>
+        <li>Install the required dependencies</li>
         <li>Run the Streamlit app using the command <code>streamlit run app.py</code>.</li>
         <li>Enter the name of a movie you like in the provided text input field.</li>
         <li>Click the "Recommend" button to receive personalized movie recommendations based on your input.</li>
